@@ -3,10 +3,10 @@
 
 效果展示
 
-![image]https://github.com/WEN3141/TetrisWorld/blob/master/image/1.png
+![image](https://github.com/WEN3141/TetrisWorld/blob/master/image/1.png)
 
-![image]https://github.com/WEN3141/TetrisWorld/blob/master/image/2.png
+![image](https://github.com/WEN3141/TetrisWorld/blob/master/image/2.png)
 
-![image]https://github.com/WEN3141/TetrisWorld/blob/master/image/3.png
+![image](https://github.com/WEN3141/TetrisWorld/blob/master/image/3.png)
 
-![image]https://github.com/WEN3141/TetrisWorld/blob/master/image/4.png
+![image](https://github.com/WEN3141/TetrisWorld/blob/master/image/4.png)
